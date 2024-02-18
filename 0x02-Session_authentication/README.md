@@ -1,0 +1,1 @@
+0x02 authentication session
